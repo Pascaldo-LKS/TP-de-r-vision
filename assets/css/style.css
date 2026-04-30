@@ -1,0 +1,49 @@
+
+form { 
+    width: 300px; 
+    margin: 20px auto;
+    box-shadow: 5000px   rgb(28, 27, 27);
+    border-radius: 15px; 
+    padding: 30px;
+    display: flex; 
+    flex-direction: column; 
+    gap: 50px; 
+    background-color: rgb(194, 44, 44);
+} 
+button{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    
+    padding: 10px 15px;
+}
+input, select, table{
+    padding:    10px 30px; 
+}
+table{
+    background-color: rgb(217, 210, 210);
+    border: 10px ;
+    width: 1000px;
+    box-shadow: 5000px   rgb(200, 63, 63);
+    height: 250px;
+    
+
+}
+h2{
+    text-align: center;
+    width: 300px; 
+    margin: 20px auto;
+
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+    margin-left: 20px;
+    
+}
+a:hover{
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    padding: 3px;
+}
